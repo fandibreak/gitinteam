@@ -1,0 +1,17 @@
+.dform{
+
+    background-color: aqua;
+    margin: 60px;
+    border-radius: 5px;
+    display: flex;
+    padding: 20px;
+    width: 30%;
+    border: rgb(15, 15, 15) 5px solid;
+
+}
+h3,h1 {
+    background-color: black;
+    color: rgb(236, 11, 124);
+    text-align: center;
+    border-radius: 100px;
+}
